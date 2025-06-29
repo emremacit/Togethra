@@ -1,48 +1,59 @@
-# Togethra - Birlikte Daha Güzel
+# Togethra - Better Together
 
-Togethra, arkadaş grupları, aileler ve topluluklar için tasarlanmış modern bir etkinlik planlama ve grup organizasyon uygulamasıdır. Etkinliklerinizi planlamayı, grup aktivitelerini organize etmeyi ve sosyal hayatınızı yönetmeyi kolaylaştırır.
+Togethra is a modern event planning and group organization app designed for friend groups, families, and communities. It simplifies planning events, organizing group activities, and managing your social life.
 
-## ✨ Özellikler
+## ✨ Features
 
-### 📅 Etkinlik Planlama
-- Kolayca etkinlik oluşturun ve yönetin
-- Tarih ve saat planlaması yapın
-- Konum bilgisi ekleyin
-- Katılımcıları davet edin
+### 📅 Event Planning
+- Create and manage events easily
+- Schedule dates and times
+- Add location details
+- Invite participants
+- Get real-time updates
 
-### 👥 Grup Yönetimi
-- Gruplarınızı organize edin
-- Üyeleri yönetin
-- Grup içi iletişimi kolaylaştırın
-- Etkinlikleri takip edin
+### 👥 Group Management
+- Organize your groups
+- Manage members
+- Streamline group communication
+- Track activities
+- Share important information
 
-### 💰 Masraf Takibi
-- Grup harcamalarını yönetin
-- Masrafları paylaşın
-- Ödemeleri takip edin
-- Hesaplaşmaları kolaylaştırın
+### 💰 Expense Tracking
+- Manage group expenses
+- Split costs fairly
+- Track payments
+- Simplify settlements
+- Keep financial transparency
 
-### 📊 Anketler ve Kararlar
-- Grup kararları için oylama yapın
-- Etkinlik detaylarını belirleyin
-- Tercihleri toplayın
-- Demokratik kararlar alın
+### 📊 Polls & Decisions
+- Create polls for group decisions
+- Determine event details
+- Collect preferences
+- Make democratic decisions
+- Keep everyone involved
 
-## 📱 İletişim ve Destek
+### 📝 Notes & Links
+- Share important information
+- Keep track of event details
+- Store useful links
+- Access shared resources
+- Never lose important details
 
-- **E-posta:** [e.macit1130@gmail.com](mailto:e.macit1130@gmail.com)
-- **WhatsApp Destek:** [Mesaj Gönder](https://wa.me/905359302324)
+## 📱 Contact & Support
+
+- **Email:** [e.macit1130@gmail.com](mailto:e.macit1130@gmail.com)
+- **WhatsApp Support:** [Send Message](https://wa.me/905359302324)
 - **Instagram:** [@emre1130](https://www.instagram.com/emre1130/)
 
-## 📄 Yasal
+## 📄 Legal
 
-- [Gizlilik Politikası](privacy.html)
-- [Kullanım Koşulları](terms.html)
+- [Privacy Policy](privacy.html)
+- [Terms of Use](terms.html)
 
 ## 🔍 App Store
 
-Togethra'yı iOS cihazınıza indirmek için [App Store'u](https://apps.apple.com/app/togethra) ziyaret edin.
+Visit the [App Store](https://apps.apple.com/app/togethra) to download Togethra on your iOS device.
 
 ---
 
-© 2024 Togethra. Tüm hakları saklıdır.
+© 2024 Togethra. All rights reserved.
