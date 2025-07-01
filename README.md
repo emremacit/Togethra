@@ -47,8 +47,7 @@ Togethra is a modern event planning and group organization app designed for frie
 
 ## 📄 Legal
 
-- [Privacy Policy](privacy.html)
-- [Terms of Use](terms.html)
+[Privacy Policy](https://emremacit.github.io/Togethra/privacy-policy.html)  
 
 ## 🔍 App Store
 
@@ -56,4 +55,4 @@ Visit the [App Store](https://apps.apple.com/app/togethra) to download Togethra 
 
 ---
 
-© 2024 Togethra. All rights reserved.
+© 2025 Togethra. All rights reserved.
